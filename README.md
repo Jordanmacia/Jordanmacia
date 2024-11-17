@@ -4,5 +4,5 @@
 - 🎉 20 years old
 - 💻 Passionate about hacking
 
-🎨 Portfolio: https://jordanmacia.github.io
-🗒️ Hacking Notes: https://hacking-notes-jordan.gitbook.io
+🎨 Portfolio: http://jord4n.pro
+🗒️ Hacking Notes: https://hacking-notes.jordan.pro
