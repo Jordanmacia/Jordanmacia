@@ -4,5 +4,5 @@
 - 🎉 20 years old
 - 💻 Passionate about hacking
 
-🎨 Portfolio: http://jord4n.pro
+🎨 Portfolio: https://jord4n.pro
 🗒️ Hacking Notes: https://hacking-notes.jord4n.pro
