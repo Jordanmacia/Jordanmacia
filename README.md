@@ -5,4 +5,4 @@
 - 💻 Passionate about hacking
 
 🎨 Portfolio: http://jord4n.pro
-🗒️ Hacking Notes: https://hacking-notes.jordan.pro
+🗒️ Hacking Notes: https://hacking-notes.jord4n.pro
