@@ -7,12 +7,7 @@
 ---
 
 ### 🧑‍💻 About&nbsp;me
-- 🔐 I break things to understand how they work—then write about it.
-- 🎓 Currently studying **Cybersecurity** while solving boxes on <a href="https://app.hackthebox.com/profile/1345367">HackTheBox</a>.
-- 🛠️ Maintaining my public knowledge base: <a href="https://hacking-notes.jord4n.pro/">Hacking Notes</a>.
-- 🌐 Check out my portfolio: <a href="https://jord4n.pro/">jord4n.pro</a>.
 
----
 
 
 
@@ -77,6 +72,3 @@
 ###
 
 <img align="right" src="https://profile-counter.glitch.me/jordanmacia/count.svg?"  />
-
-###
-IC4g-Yz-wAAAZJ7LJPgX5x4qmGskYan1Vx9DZvDBarw1zKFAXaZ9eDNWGmDHIzPyc9oqgOoc7DA78FubIq-GW7iwBgm1ycmDj41blYFOgoy7GUNqSSR_B9wPZQEK2buiQ4=&original_referer=https://linktr.ee/&sessionRedirect=https%3A%2F%2Fes.linkedin.com%2Fin%2Frub%25C3%25A9n-zaragoza-abad-37a528217
