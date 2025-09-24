@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jordan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h1>
 
 <p align="center">
-<em>20 y.o. Cybersecurity student & Ethical Hacking</em>
+<em>21 y.o. Cybersecurity student & Ethical Hacking</em>
 </p>
 
 ---
