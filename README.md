@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jordan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h1>
 
 <p align="center">
-<em>21 y.o. Cybersecurity student & Ethical Hacking</em>
+<em>Cybersecurity student & Ethical Hacking</em>
 </p>
 
 ---
@@ -53,10 +53,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img height="350" src="https://hacking-notes.jord4n.pro/~gitbook/image?url=https%3A%2F%2F3892280740-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FOeqybfPyWliD6m1hbKa3%252Fuploads%252FAuMJoiR4ncrnVvDIFkkf%252Fhack.gif%3Falt%3Dmedia%26token%3D55dbc921-4504-4c43-a506-91740ac67a8d&width=400&dpr=3&quality=100&sign=317a70e5&sv=2" alt="Hacking animation" />
-</div>
 
 ---
 
