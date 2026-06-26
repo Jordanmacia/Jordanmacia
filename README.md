@@ -51,9 +51,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </div>
-
----
-
----
-
-<img align="right" src="https://profile-counter.glitch.me/jordanmacia/count.svg?" alt="Visitor counter" />
