@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+.ascii {font-size: 6.40px;}
+</style>
+<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii" xml:space="preserve">
+<tspan x="15" y="26.00">                                                                                               </tspan>
+<tspan x="15" y="34.33">                                              ....                                             </tspan>
+<tspan x="15" y="42.67">                                        ..:-==+==+=---:.                                       </tspan>
+<tspan x="15" y="51.00">                                     .-=++++=========+++=-:.                                   </tspan>
+<tspan x="15" y="59.33">                                   .-+==-==-=============+++=-                                 </tspan>
+<tspan x="15" y="67.67">                                .-====-=====================-+-                                </tspan>
+<tspan x="15" y="76.00">                              .=++=--========================-+-.                              </tspan>
+<tspan x="15" y="84.33">                             :+==-==============================+=.                            </tspan>
+<tspan x="15" y="92.67">                             +==================================-=+:                           </tspan>
+<tspan x="15" y="101.00">                            -====================================-=+.                          </tspan>
+<tspan x="15" y="109.33">                           -+======================================+=                          </tspan>
+<tspan x="15" y="117.67">                          -+-=====================================-=+:                         </tspan>
+<tspan x="15" y="126.00">                         .*=-======================================-=+.                        </tspan>
+<tspan x="15" y="134.33">                         =+-=-======================================-==                        </tspan>
+<tspan x="15" y="142.67">                         ==--==========================================                        </tspan>
+<tspan x="15" y="151.00">                         ==-========================--=================                        </tspan>
+<tspan x="15" y="159.33">                         -=-========================--=================                        </tspan>
+<tspan x="15" y="167.67">                         -=-============-===========-=---===-==========                        </tspan>
+<tspan x="15" y="176.00">                         -=-========================----------=========                        </tspan>
+<tspan x="15" y="184.33">                         ==-=======---===========-=-::----:.::-=====-==                        </tspan>
+<tspan x="15" y="192.67">                         -=--====-----==========---:::::......:-====-==                        </tspan>
+<tspan x="15" y="201.00">                         :+--====--------==---::::--::..  .....:====-+:                        </tspan>
+<tspan x="15" y="209.33">                          =--==+---------:..:...::--............-+=-=+                         </tspan>
+<tspan x="15" y="217.67">                          :=--==-======+==-::....:::..:------::::+=-=-                         </tspan>
+<tspan x="15" y="226.00">                           =--=:============-:.....:-==+====---=--=-=                          </tspan>
+<tspan x="15" y="234.33">                           :--:.----=========-::..:--=---=---:::::-=:                          </tspan>
+<tspan x="15" y="242.67">                          ..:::.---============:...:---=====--:..:--                           </tspan>
+<tspan x="15" y="251.00">                         -===:..-===-==+=-=====:. ..:-:-=+=----...:...:                        </tspan>
+<tspan x="15" y="259.33">                        -+--=-.:--=-----::-====:.....:::--:::-:......-=:                       </tspan>
+<tspan x="15" y="267.67">                        ==----.:-------:::-----:......::::::.........:-:                       </tspan>
+<tspan x="15" y="276.00">                        -+--=-.--:----::::-----:............. ....::.:-:                       </tspan>
+<tspan x="15" y="284.33">                        :+-===.:-:::::::::----::..........      ..::..:.                       </tspan>
+<tspan x="15" y="292.67">                         ====-.:-:::::::::-----:......  ....   ....:...                        </tspan>
+<tspan x="15" y="301.00">                         :===-..--:::::::--==-::........ .............                         </tspan>
+<tspan x="15" y="309.33">                         .=--+:.---::::::--=-:::. ......    ..........                         </tspan>
+<tspan x="15" y="317.67">                          :--=-.----:::::-==-=--:........  ..........                          </tspan>
+<tspan x="15" y="326.00">                           ==--.-----::::-======-:-=-................                          </tspan>
+<tspan x="15" y="334.33">                            -==.::----:::-======-::-:...............                           </tspan>
+<tspan x="15" y="342.67">                             .:.:::-:-:::----==-::.................                            </tspan>
+<tspan x="15" y="351.00">                               .::::---:::-----.::..............:                              </tspan>
+<tspan x="15" y="359.33">                               .::::-----:-----::.::............:                              </tspan>
+<tspan x="15" y="367.67">                                -:::--------====-:----::.........                              </tspan>
+<tspan x="15" y="376.00">                                :::::----========-------:......:                               </tspan>
+<tspan x="15" y="384.33">                                .::::--:------::...............:                               </tspan>
+<tspan x="15" y="392.67">                                 ::::----------::::...........:.                               </tspan>
+<tspan x="15" y="401.00">                                 ::::--------------:............                               </tspan>
+<tspan x="15" y="409.33">                                 :::::-----------:::::......:...                               </tspan>
+<tspan x="15" y="417.67">                                 ::::::-------:::...:......::...                               </tspan>
+<tspan x="15" y="426.00">                                 :----::----:::::.........::....                               </tspan>
+<tspan x="15" y="434.33">                                 :-----::----::::::.....:::.....                               </tspan>
+<tspan x="15" y="442.67">                                 :-------:----::.::....:::......                               </tspan>
+<tspan x="15" y="451.00">                              .-=--------------::::::::::......:+=-                            </tspan>
+<tspan x="15" y="459.33">                            .+*+*-----------===-------:........:++++-                          </tspan>
+<tspan x="15" y="467.67">                          :=++=+-:-----------======-:............===++:                        </tspan>
+<tspan x="15" y="476.00">                        :=*=====-:---------------::...............+=-=++=:                     </tspan>
+<tspan x="15" y="484.33">                     .-+++=======:--------------::...............:+=====+++-.                  </tspan>
+<tspan x="15" y="492.67">                   :=++==========--------------=:................-+========++=:                </tspan>
+<tspan x="15" y="501.00">                 -+++============--------------=--:..............+============++-.             </tspan>
+<tspan x="15" y="509.33">              :=++================----------------:.............-+==============+++-.          </tspan>
+<tspan x="15" y="517.67">            :+++==================-------:-----::::............:+==================++=.        </tspan>
+</text>
+<text x="390" y="30" fill="#24292f">
+<tspan x="390" y="30">jordan@macia</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Cybersecurity Student &amp; Pentester</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Current</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Work-Study Pentester @ Orange Cyberdefense</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">M.S. Cybersecurity, Ynov Campus</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Certifications</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">CWES, BSCP, eJPT</tspan>
+<tspan x="390" y="130" class="cc">. </tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Spoken</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Spanish, Catalan, French, English</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Tech</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Python, PHP, JavaScript, SQL, Bash</tspan>
+<tspan x="390" y="190" class="cc">. </tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Offensive</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Web Pentesting, Reverse Engineering</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Defensive</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">SIEM (ELK), EDR, Incident Response</tspan>
+<tspan x="390" y="270">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">jord4n.pro</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Hacking</tspan>.<tspan class="key">Notes</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">hacking-notes.jord4n.pro</tspan>
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">jordanmacia</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Jordanmacia</tspan>
+<tspan x="390" y="390">- Training</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Hack</tspan> <tspan class="key">The</tspan> <tspan class="key">Box</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">app.hackthebox.com/profile/1345367</tspan>
+<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">CWES</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Hack The Box — May 2026</tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">BSCP</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">PortSwigger — March 2026</tspan>
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">eJPT</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">INE Security — April 2025</tspan>
+</text>
+</svg>
