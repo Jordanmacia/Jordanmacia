@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="./jordan-shell.svg?raw=1">
+  <a href="./jordan-shell.svg">
     <img
-      src="./jordan_stats_card_ascii_dark_v3.svg"
+      src="./jordan-shell.svg"
       alt="Jordan Macia — Cybersecurity profile"
       width="100%"
     />
