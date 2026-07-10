@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 530" width="1080px" height="530px" role="img" aria-labelledby="title desc">
+  <title id="title">Jordan Macia terminal profile</title>
+  <desc id="desc">Selectable high-contrast ASCII portrait with cybersecurity profile information.</desc>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+    text, tspan { white-space: pre; }
+    .ascii { font-size: 9.45px; font-weight: 700; fill: #f3f4f6; letter-spacing: 0; }
+    .main { font-size: 16px; fill: #e5e7eb; }
+    .key { fill: #ff4d4f; font-weight: 700; }
+    .value { fill: #5ec8ff; }
+    .muted { fill: #9ca3af; }
+    .rule { fill: #8b949e; }
+  </style>
+  <rect x="0.75" y="0.75" width="1078.5" height="528.5" rx="15" fill="#0b1118" stroke="#3f4b5a" stroke-width="1.5"/>
+  <g transform="scale(1.15 1)">
+    <text class="mono ascii" x="8" y="14" xml:space="preserve">
+      <tspan x="8" y="24.18">                           ,::.</tspan>
+      <tspan x="8" y="34.36">                     .=*&amp;%$#@@#$%%*-,</tspan>
+      <tspan x="8" y="44.54">                   :&amp;#@@@@@@@@@@@@@@@#&amp;:</tspan>
+      <tspan x="8" y="54.72">                =&amp;$#@@@@@@@@@@@@@@@@@@@#=</tspan>
+      <tspan x="8" y="64.90">              .$@@@@@@@@@@@@@@@@@@@@@@@@@$*</tspan>
+      <tspan x="8" y="75.08">              &amp;@@@@@@@@@@@@@@@@@@@#@@@@@@@@$.</tspan>
+      <tspan x="8" y="85.26">             8@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@8</tspan>
+      <tspan x="8" y="95.44">            &amp;@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=</tspan>
+      <tspan x="8" y="105.62">           -@##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#,</tspan>
+      <tspan x="8" y="115.80">           =##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#,</tspan>
+      <tspan x="8" y="125.98">           ,##@@@@@@@@@@@@@@@@@@#@@#@@@@@@@@@#:</tspan>
+      <tspan x="8" y="136.16">           ,##@@@@@@@@@@@@@@@@@#$$##$&amp;&amp;#@@@@@#.</tspan>
+      <tspan x="8" y="146.34">           :#$@@@@##@@@@@@@@#%$%8&amp;*+-:-+&amp;@@@@#.</tspan>
+      <tspan x="8" y="156.52">           .$##@@*$#$$%%%%&amp;**&amp;%8+-, .,:,-$@@@%</tspan>
+      <tspan x="8" y="166.70">            +##@&amp;*#@###&amp;++=-=+**-:-====--*@@@-</tspan>
+      <tspan x="8" y="176.88">             %$%=#@@@@@@@#&amp;++==+&amp;#@@@#%%%*$@8</tspan>
+      <tspan x="8" y="187.06">             ,&amp;=-%#@@@@@@@@%+,:*$#@@#$%8++*%.</tspan>
+      <tspan x="8" y="197.24">           =$%8:-$@##@#8%@@@+,,-=8&amp;#$+&amp;%=-=-.=,</tspan>
+      <tspan x="8" y="207.42">           #@#&amp;,*$#$#%&amp;&amp;%#@#+:,::=**+==--:-:,8*</tspan>
+      <tspan x="8" y="217.60">           $#@%.8%%%&amp;888%##%*,,::,::,,,,,,-=,==</tspan>
+      <tspan x="8" y="227.78">           +#@&amp;.+&amp;&amp;8888&amp;$##%*::::,,,,,,,,::+--.</tspan>
+      <tspan x="8" y="237.96">           .$@$,:%%&amp;888&amp;$@%8+,.:-,,,,,,,,:=-:,</tspan>
+      <tspan x="8" y="248.14">            -%@+-%$%&amp;&amp;&amp;%@$8$8-:---:,,,,::--::</tspan>
+      <tspan x="8" y="258.32">             +$%-&amp;%$%&amp;&amp;%@@@@@&amp;*&amp;=,-:,,,:-=-,.</tspan>
+      <tspan x="8" y="268.50">              ,=:*&amp;%%%&amp;%$#@#88=-:,,::::--=,.</tspan>
+      <tspan x="8" y="278.68">                :88&amp;$$%%%$%8:=-::::::::-=-</tspan>
+      <tspan x="8" y="288.86">                ,8*8%$$$####$&amp;8&amp;8+=-::--=,</tspan>
+      <tspan x="8" y="299.04">                 =**&amp;$%$##$&amp;88++**+=-:---</tspan>
+      <tspan x="8" y="309.22">                 ,*8&amp;#$##$$%8**=-------=-</tspan>
+      <tspan x="8" y="319.40">                 ,**8$#####%%%8*+=====+=:</tspan>
+      <tspan x="8" y="329.58">                 ,8&amp;&amp;&amp;%#$$%8*+--=---=*=-:</tspan>
+      <tspan x="8" y="339.76">                 .&amp;$#%&amp;%%%&amp;*+++-:::=*=:::</tspan>
+      <tspan x="8" y="349.94">                 ,8$@@#%$#$&amp;++*=-=+*=:::-,</tspan>
+      <tspan x="8" y="360.12">              :&amp;#8*#@@@#$@##$%%&amp;8*+-::::-$#&amp;:</tspan>
+      <tspan x="8" y="370.30">           .+$@@#=8#@@@@##@@##%*=---::::--&amp;@@%-.</tspan>
+      <tspan x="8" y="380.48">         -&amp;#@@@@#*&amp;##@@@@@@#&amp;+=:-==-::::--=@@@@#&amp;=.</tspan>
+      <tspan x="8" y="390.66">      :8#@@@@@@@@$%$####@@#@#8====-:::::-:%@@@@@@@#%=.</tspan>
+      <tspan x="8" y="400.84">   :*$@@@@@@@@@@@@####$$$###$%*=---:::--,+@@@@@@@@@@@@%+,</tspan>
+      <tspan x="8" y="411.02">-*$@@@@@@@@@@@@@@@@##$$%%$$%8*=-------:,*@@@@@@@@@@@@@@@@$</tspan>
+      <tspan x="8" y="421.20">@@@@@@@@@@@@@@@@@@@@#$$%&amp;%$$%8*++=--::=%@@@@@@@@@@@@@@@@@@</tspan>
+      <tspan x="8" y="431.38">@@@@@@@@@@@@@@@@@@@@@##$&amp;*8%%&amp;8+=---*$@@@@@@@@@@@@@@@@@@@@</tspan>
+      <tspan x="8" y="441.56">@@@@@@@@@@@@@@@@@@@@@@@@#$%%%$%%%$#@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+      <tspan x="8" y="451.74">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+      <tspan x="8" y="461.92">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+      <tspan x="8" y="472.10">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+      <tspan x="8" y="482.28">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+      <tspan x="8" y="492.46">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+      <tspan x="8" y="502.64">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+    </text>
+  </g>
+  <text class="mono main" x="390" y="30" xml:space="preserve">
+    <tspan x="390" y="30" font-weight="700">jordan@macia</tspan><tspan class="rule"> -——————————————————————————————————————————————————————————-—-</tspan>
+    <tspan x="390" y="50" class="muted">. </tspan><tspan class="key">Role</tspan><tspan>: </tspan><tspan class="muted">...................... </tspan><tspan class="value">Cybersecurity Student &amp; Pentester</tspan>
+    <tspan x="390" y="70" class="muted">. </tspan><tspan class="key">Current</tspan><tspan>: </tspan><tspan class="muted">................... </tspan><tspan class="value">Work-Study @ Orange Cyberdefense</tspan>
+    <tspan x="390" y="90" class="muted">. </tspan><tspan class="key">Education</tspan><tspan>: </tspan><tspan class="muted">................. </tspan><tspan class="value">M.S. Cybersecurity, Ynov Campus</tspan>
+    <tspan x="390" y="110" class="muted">. </tspan><tspan class="key">Certifications</tspan><tspan>: </tspan><tspan class="muted">............ </tspan><tspan class="value">CWES, BSCP, eJPT</tspan>
+    <tspan x="390" y="130" class="muted">. </tspan>
+    <tspan x="390" y="150" class="muted">. </tspan><tspan class="key">Languages.Spoken</tspan><tspan>: </tspan><tspan class="muted">.......... </tspan><tspan class="value">Spanish, Catalan, French, English</tspan>
+    <tspan x="390" y="170" class="muted">. </tspan><tspan class="key">Languages.Tech</tspan><tspan>: </tspan><tspan class="muted">............. </tspan><tspan class="value">Python, PHP, JavaScript, SQL, Bash</tspan>
+    <tspan x="390" y="190" font-weight="700">- Contact</tspan><tspan class="rule"> -——————————————————————————————————————————————————————————————-—-</tspan>
+    <tspan x="390" y="210" class="muted">. </tspan><tspan class="key">Portfolio</tspan><tspan>: </tspan><tspan class="muted">................. </tspan><tspan class="value">jord4n.pro</tspan>
+    <tspan x="390" y="230" class="muted">. </tspan><tspan class="key">Hacking.Notes</tspan><tspan>: </tspan><tspan class="muted">............. </tspan><tspan class="value">hacking-notes.jord4n.pro</tspan>
+    <tspan x="390" y="250" class="muted">. </tspan><tspan class="key">LinkedIn</tspan><tspan>: </tspan><tspan class="muted">.................. </tspan><tspan class="value">jordanmacia</tspan>
+    <tspan x="390" y="270" class="muted">. </tspan><tspan class="key">GitHub</tspan><tspan>: </tspan><tspan class="muted">.................... </tspan><tspan class="value">Jordanmacia</tspan>
+    <tspan x="390" y="310" font-weight="700">- Training</tspan><tspan class="rule"> -—————————————————————————————————————————————————————————————-—-</tspan>
+    <tspan x="390" y="330" class="muted">. </tspan><tspan class="key">Hack The Box</tspan><tspan>: </tspan><tspan class="muted">............... </tspan><a href="https://app.hackthebox.com/users/1345367" target="_blank"><tspan class="value">app.hackthebox.com/users/1345367</tspan></a>
+    <tspan x="390" y="350" class="muted">. </tspan><tspan class="key">CWES</tspan><tspan>: </tspan><tspan class="muted">...................... </tspan><tspan class="value">Hack The Box — May 2026</tspan>
+    <tspan x="390" y="370" class="muted">. </tspan><tspan class="key">BSCP</tspan><tspan>: </tspan><tspan class="muted">...................... </tspan><tspan class="value">PortSwigger — March 2026</tspan>
+    <tspan x="390" y="390" class="muted">. </tspan><tspan class="key">eJPT</tspan><tspan>: </tspan><tspan class="muted">...................... </tspan><tspan class="value">INE Security — April 2025</tspan>
+  </text>
+</svg>
