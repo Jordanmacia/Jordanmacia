@@ -2,7 +2,7 @@
   <img src="./assets/ascii-portrait.svg" width="340" alt="Jordan Macia ASCII portrait" />
 </div>
 
-<h1 align="center">Hi, I'm Jordan 👋🏻</h1>
+<h1 align="center">Hi, I'm Jordan </h1>
 <h3 align="center">Cybersecurity Student · Pentester</h3>
 
 <p align="center">
