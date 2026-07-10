@@ -1,5 +1,6 @@
+
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 530" font-family="ConsolasFallback,Consolas,monospace" width="1080px" height="530px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -8,16 +9,16 @@ font-display: swap;
 -webkit-size-adjust: 109%;
 size-adjust: 109%;
 }
-.key {fill: #953800;}
-.value {fill: #0a3069;}
-.addColor {fill: #1a7f37;}
-.delColor {fill: #cf222e;}
-.cc {fill: #c2cfde;}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 .ascii {font-size: 6.40px;}
 </style>
-<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii" xml:space="preserve">
+<rect width="1080px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii" xml:space="preserve">
 <tspan x="15" y="26.00">                                                                                               </tspan>
 <tspan x="15" y="34.33">                                              ....                                             </tspan>
 <tspan x="15" y="42.67">                                        ..:-==+==+=---:.                                       </tspan>
@@ -79,10 +80,10 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="509.33">              :=++================----------------:.............-+==============+++-.          </tspan>
 <tspan x="15" y="517.67">            :+++==================-------:-----::::............:+==================++=.        </tspan>
 </text>
-<text x="390" y="30" fill="#24292f">
-<tspan x="390" y="30">jordan@macia</tspan> -———————————————————————————————————————————-—-
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">jordan@macia</tspan> -——————————————————————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Cybersecurity Student &amp; Pentester</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Current</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Work-Study Pentester @ Orange Cyberdefense</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Current</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Work-Study @ Orange Cyberdefense</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">M.S. Cybersecurity, Ynov Campus</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Certifications</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">CWES, BSCP, eJPT</tspan>
 <tspan x="390" y="130" class="cc">. </tspan>
@@ -91,13 +92,13 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="190" class="cc">. </tspan>
 <tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Offensive</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Web Pentesting, Reverse Engineering</tspan>
 <tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Defensive</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">SIEM (ELK), EDR, Incident Response</tspan>
-<tspan x="390" y="270">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="270">- Contact</tspan> -——————————————————————————————————————————————————————————————-—-
 <tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">jord4n.pro</tspan>
 <tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Hacking</tspan>.<tspan class="key">Notes</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">hacking-notes.jord4n.pro</tspan>
 <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">jordanmacia</tspan>
 <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Jordanmacia</tspan>
-<tspan x="390" y="390">- Training</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Hack</tspan> <tspan class="key">The</tspan> <tspan class="key">Box</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">app.hackthebox.com/profile/1345367</tspan>
+<tspan x="390" y="390">- Training</tspan> -—————————————————————————————————————————————————————————————-—-
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Hack</tspan> <tspan class="key">The</tspan> <tspan class="key">Box</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">hackthebox.com/profile/1345367</tspan>
 <tspan x="390" y="430" class="cc">. </tspan><tspan class="key">CWES</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Hack The Box — May 2026</tspan>
 <tspan x="390" y="450" class="cc">. </tspan><tspan class="key">BSCP</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">PortSwigger — March 2026</tspan>
 <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">eJPT</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">INE Security — April 2025</tspan>
